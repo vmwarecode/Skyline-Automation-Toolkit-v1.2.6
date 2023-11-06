@@ -1,6 +1,7 @@
 "set-executionpolicy unrestricted"
 "install-module SkylineAutomationToolkit"
 
+REM: user guide is in c:\program files\windowspowershell\module\SkylineAutomationToolkit\1.x.x\Skyline Automation Toolkit 1.x.x.pdf"
 
 "skyline-comm get-findings list|longlistt send2slack|send2servicenow|send2jira|send2csv"
 "skyline-comm get-findings detail|longdetail FINDINGID SOURCE send2slack|send2servicenow|send2jira|send2csv"
