@@ -13,4 +13,5 @@ REM: there is a readme.txt in that folder as well. I will update info with chang
 "skyline-comm get-findings category SECURITY|NETWORK|COMPUTE|STORAGE send2slack|send2servicenow|send2jira|send2csv"
 "skyline-comm get-findings type CONFIGURATION|UPGRADE send2slack|send2servicenow|send2jira|send2csv"
 "skylline-comm get-findings severity CRITICAL|MODERATE|TRIVIAL send2slack|send2servicenow|send2jira|send2csv"
-"skylline-comm email SMTP-SERVER FROM-EMAIL TO-EMAIL FILE.CSV"
+"skylline-comm email SMTP-SERVER FROM-EMAIL TO-EMAIL FILE.CSV""
+"skylline-comm misc API-PATH"
